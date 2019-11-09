@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/paul/anaconda3/bin/python",
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=31e4bfe7543a265f3cfcf9350917d4038f66af83ebcf0742",
+    "editor.fontFamily": "'Cascadia code', Consolas, 'Courier New', monospace"
+}
